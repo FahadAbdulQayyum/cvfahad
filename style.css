@@ -181,13 +181,17 @@ body {
   margin-top: 0.5rem;
   border: 1px solid var(--common);
   background-color: transparent;
-  color: white;
   padding: 0.45rem;
   /* padding-top: 0.4rem; */
   /* margin-top: 0.45rem; */
   /* transform: scale(0.99); */
   /* font-size: 13px; */
 }
+
+.btn:hover a {
+  color: white;
+}
+
 .languages {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
