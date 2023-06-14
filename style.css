@@ -251,6 +251,10 @@ li {
   /* background-color: rgb(87, 84, 84); */
   /* text-decoration: underline; */
 }
+.title.portfolio a {
+	text-decoration: none;
+	color: white;
+}
 .right_side h2 {
   text-transform: uppercase;
   font-family: "Quicksand", sans-serif;
