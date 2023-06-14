@@ -251,8 +251,8 @@ li {
   /* background-color: rgb(87, 84, 84); */
   /* text-decoration: underline; */
 }
-.title.portfolio ul li a {
-	text-decoration: none;
+.languages.portfolio li a {
+/* 	text-decoration: none; */
 	color: white;
 }
 .right_side h2 {
